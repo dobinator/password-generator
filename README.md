@@ -23,7 +23,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 Website should look similarly to this image
-![password-generator](.assets/screenshotGen.jpg)
+![password-generator](./assets/screenshotGen.jpg)
 
 reviewed: 
 https://youtu.be/DQn8AAg3Ap0

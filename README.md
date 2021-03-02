@@ -1,5 +1,7 @@
 # password-generator
 
+Created a password generated javascript code that produces a list of characters between 8-128. The password has the options of Uppercase and lowercase letters, numbers and symbols.  
+
 ## Acceptance Criteria
 
 ```
@@ -20,7 +22,10 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
+Website should look similarly to this image
+![password-generator](.assets/screenshotGen.jpg)
 
-
-reviewed 
+reviewed: 
 https://youtu.be/DQn8AAg3Ap0
+
+
